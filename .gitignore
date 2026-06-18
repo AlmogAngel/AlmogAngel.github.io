@@ -1,0 +1,6 @@
+# Internal working docs (design spec / plan) — not part of the public site
+docs/
+
+# macOS
+.DS_Store
+**/.DS_Store
